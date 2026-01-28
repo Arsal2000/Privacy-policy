@@ -1,65 +1,96 @@
-TLDR;
-- I collect as little data as possible.
-- Collected data is never linked to users unless explicitly required for app functionality.
-- I don't sell data.
-- I don't use ads for any apps or games.
-
-Services and Definitions
-This Privacy Policy applies to apps and services developed by Federico Curzel, including:
-- "Desktop Pets" app for iOS and macOS.
-- "MyRentalShop" app for iPad.
-
-It also applies to apps and services developed by Hidden Mugs (alias for Federico Curzel), including:
-- "SneakBit" game for Android, iOS, Windows, Linux, and macOS.
-
-These software and *services* are provided as either *free* or *paid*, as specified in individual products, and are offered *as is* without warranty of any kind. Additional services might be provided at a cost; please refer to indications within individual products.
-
-SneakBit is a *paid* game.
-
 Privacy Policy
-This Privacy Policy informs users about my policies regarding the collection, use, and disclosure of personal and sensitive user information when using any of my apps or services.
 
-By using my apps, you agree to the collection and use of information as described in this policy. The Personal Information I collect is used solely to improve the services and functionality of my apps and is not shared or used beyond the stated purposes.
+Last updated: January 2026
 
-Information Collection and Use
-To enhance user experience, I may collect specific types of data, including:
-- Device-related information, such as IP address, operating system, and app version.
-- Usage data, such as app activity logs, crash reports, and performance metrics.
+1. Introduction
 
-Log Data
-In case of errors, I may collect Log Data via third-party services. This data may include device-related information such as:
-- Internet Protocol (“IP”) address.
-- Device name and operating system version.
-- App configuration details at the time of the error.
-- Time and date of use, along with usage statistics.
+Welcome to PostingAPI (“we”, “our”, or “us”). Your privacy is important to us. This Privacy Policy explains how we collect, use, store, and protect information when you use our application and services.
 
-Cookies
-This app does not explicitly use cookies. However, third-party libraries integrated into the app may use cookies to improve their functionality. You can choose to accept or refuse these cookies via your device settings. Note that refusing cookies may limit app functionality.
+By using our app, you agree to the collection and use of information in accordance with this policy.
 
-Service Providers
-I may employ third-party companies for the following reasons:
-- To assist in the development and maintenance of the Service.
-- To facilitate user support and analytics.
+2. Information We Collect
 
-These third parties may have access to personal information to perform their assigned tasks. However, they are contractually obligated not to use or disclose it for any other purpose.
+We only collect information that is necessary to provide our services.
 
-Data Retention and Deletion Policy
-I retain user data only as long as necessary to fulfill the app's functionality or comply with legal requirements. Data such as crash logs is automatically purged after a limited period. Users may request data deletion via the contact details below.
+a. Information You Provide
 
-Security
-I prioritize the security of your data and use industry-standard practices to protect it. However, no method of digital storage or transmission is 100% secure. I cannot guarantee absolute data security.
+Facebook account information (such as name, profile ID, or Page ID) when you authorize the app
 
-Children's Privacy
-My apps are not intended for use by anyone under the age of 13. I do not knowingly collect data from children under 13. If I discover such data, I will delete it immediately. Parents or guardians who become aware of such an incident should contact me directly.
+Content you choose to post or manage using the app
 
-Links to Other Sites
-My apps may contain links to external websites. I am not responsible for the privacy practices or content of third-party sites. Please review their Privacy Policies before interacting with them.
+b. Automatically Collected Information
 
-Changes to This Privacy Policy
-This Privacy Policy may be updated periodically. Updates will be posted on this page with a revised "effective date." Users are encouraged to review the policy regularly.
+Access tokens provided by Meta for authentication
 
-Effective Date: 2024-12-10
+App usage data for debugging and performance monitoring
 
-Contact Us
-For inquiries or concerns regarding this Privacy Policy, you can reach me at:
-Email: muhammadali200629@gmail.com
+We do not collect passwords or sensitive personal information.
+
+3. How We Use Information
+
+We use collected information only to:
+
+Authenticate users via Meta (Facebook)
+
+Publish, manage, or schedule posts on behalf of users
+
+Improve app functionality and reliability
+
+Comply with Meta Platform Policies and legal obligations
+
+4. Data Sharing
+
+We do not sell, rent, or trade user data.
+
+Data may only be shared:
+
+With Meta Platforms, Inc. as required for app functionality
+
+When required by law or legal process
+
+5. Data Storage and Security
+
+Data is stored securely and accessed only when necessary
+
+Reasonable technical and organizational measures are used to protect user data
+
+Access tokens are handled securely and revoked when no longer required
+
+6. Data Retention
+
+We retain user data only for as long as necessary to provide the service or as required by law.
+Users may request deletion of their data at any time.
+
+7. User Rights
+
+You have the right to:
+
+Request access to your data
+
+Request correction or deletion of your data
+
+Revoke app permissions at any time through Facebook settings
+
+8. Data Deletion Instructions
+
+If you want to delete your data associated with our app, you can:
+
+Remove the app from your Facebook account settings, or
+
+Contact us at the email address below with a deletion request
+
+We will process deletion requests within a reasonable timeframe.
+
+9. Third-Party Services
+
+Our app uses Meta (Facebook) APIs. Use of these services is subject to Meta’s own privacy policies.
+
+10. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date.
+
+11. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us:
+
+Email: muhammad_arsal2001@hotmail.com
